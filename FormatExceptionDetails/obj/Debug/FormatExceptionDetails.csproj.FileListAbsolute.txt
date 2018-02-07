@@ -1,0 +1,9 @@
+c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\FormatExceptionDetails\bin\Debug\FormatExceptionDetails.exe.config
+c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\FormatExceptionDetails\bin\Debug\FormatExceptionDetails.exe
+c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\FormatExceptionDetails\bin\Debug\FormatExceptionDetails.pdb
+c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.csprojResolveAssemblyReference.cache
+c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.Form1.resources
+c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.Properties.Resources.resources
+c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.csproj.GenerateResource.Cache
+c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.exe
+c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.pdb
