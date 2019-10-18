@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace FormatExceptionDetails
 {
+	// TEST COMMENT
     public partial class Form1 : Form
     {
 
@@ -26,7 +27,8 @@ namespace FormatExceptionDetails
 
         private string FormatExceptionDetails(string text)
         {
-            var formattedText = text.Replace("\r\n", Environment.NewLine);
+            var formattedText = text.Replace(@"\r\n", Environment.NewLine);
+            // var formattedText = text;
             formattedText = formattedText.Replace(" at ", Environment.NewLine + "\t at ");
             formattedText = formattedText.Replace(" in ", Environment.NewLine + "\t\t in ");
             formattedText = formattedText.Replace("\"InnerException\"", splitter + "\"InnerException\"");
@@ -37,9 +39,12 @@ namespace FormatExceptionDetails
             formattedText = formattedText.Replace("--- End", Environment.NewLine + "\t ---End");
             formattedText = formattedText.Replace("thrown ---\\r\\n", "thrown --" + Environment.NewLine);
             
-
-
             return formattedText;
+        }
+
+        private void txtOutput_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

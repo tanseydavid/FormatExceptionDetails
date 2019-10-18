@@ -7,3 +7,13 @@ c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\For
 c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.csproj.GenerateResource.Cache
 c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.exe
 c:\users\davidt\documents\visual studio 2017\Projects\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.pdb
+C:\Develop\GITHUB\FormatExceptionDetails\FormatExceptionDetails\bin\Debug\FormatExceptionDetails.exe.config
+C:\Develop\GITHUB\FormatExceptionDetails\FormatExceptionDetails\bin\Debug\FormatExceptionDetails.exe
+C:\Develop\GITHUB\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.csprojResolveAssemblyReference.cache
+C:\Develop\GITHUB\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.Form1.resources
+C:\Develop\GITHUB\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.Properties.Resources.resources
+C:\Develop\GITHUB\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.csproj.GenerateResource.Cache
+C:\Develop\GITHUB\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.csproj.CoreCompileInputs.cache
+C:\Develop\GITHUB\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.exe
+C:\Develop\GITHUB\FormatExceptionDetails\FormatExceptionDetails\obj\Debug\FormatExceptionDetails.pdb
+C:\Develop\GITHUB\FormatExceptionDetails\FormatExceptionDetails\bin\Debug\FormatExceptionDetails.pdb
